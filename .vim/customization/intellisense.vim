@@ -13,6 +13,15 @@ let g:coc_global_extensions = [
   \ 'coc-json',
   \ 'coc-git',
   \ 'coc-pyright',
-  \ 'coc-markdownlint'
+  \ 'coc-emmet',
+  \ 'coc-markdownlint',
+  \ 'coc-htmldjango',
+  \ 'coc-jedi',
+  \ 'coc-sh',
+  \ 'coc-swagger',
+  \ 'coc-xml',
+  \ 'coc-yaml',
+  \ 'coc-tailwindcss',
+  \ 'coc-sql'
   \ ]
 

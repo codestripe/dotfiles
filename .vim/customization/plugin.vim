@@ -9,6 +9,9 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'tpope/vim-fugitive'
 Plugin 'sainnhe/everforest'
 Plugin 'ryanoasis/vim-devicons'
+Plugin 'sukima/xmledit.git'
+Plugin 'jmcomets/vim-pony'
+Plugin 'tpope/vim-surround'
 
 call vundle#end()            " required
 

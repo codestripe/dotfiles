@@ -10,6 +10,7 @@ install:
 	install_vim_plugins
 	
 copy_files:	
+	mkdir -p ~/.local/share/fonts/
 	cp -r ./JetBrainsMono/ ~/.local/share/fonts/
 	cp ./.zshrc ~/.zshrc
 	cp ./.vimrc ~/.vimrc
